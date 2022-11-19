@@ -1,11 +1,11 @@
 import React from "react";
 
-const navbar = " bg-[#003580] h-[50px] flex justify-center ";
+const navbar = " bg-primary h-[50px] flex justify-center ";
 const navContainer =
   "w-full max-w-[1024px] text-white flex items-center justify-between";
 const logo = "font-medium ";
 const navItems = "";
-const navButton = "ml-5 py-[5px] px-2.5 text-[#003580] bg-white";
+const navButton = "ml-5 py-[5px] px-2.5 text-primary bg-white";
 
 const Navbar = () => {
   return (
